@@ -61,8 +61,6 @@ Maritime monitoring is crucial to prevent piracy, illegal fishing, smuggling, an
 2. Install dependencies
 3. Run training
 
-   ```
-
 ## Competition
 
 * **Host:** Airbus (Kaggle)
