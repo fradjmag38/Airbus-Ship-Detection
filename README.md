@@ -80,6 +80,3 @@ Maritime monitoring is crucial to prevent piracy, illegal fishing, smuggling, an
 * [Airbus Ship Detection Challenge on Kaggle](https://www.kaggle.com/competitions/airbus-ship-detection)
 * Ronneberger et al., *U-Net: Convolutional Networks for Biomedical Image Segmentation* (2015)
 
----
-
-👉 Would you like me to **insert placeholders for your actual results (F2 score, accuracy, leaderboard rank, etc.)** so it looks even more solid for LinkedIn/GitHub?
