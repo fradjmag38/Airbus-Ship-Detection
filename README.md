@@ -46,10 +46,7 @@ Maritime monitoring is crucial to prevent piracy, illegal fishing, smuggling, an
 ## Repository Structure
 
 ```
-├── notebooks/          # Jupyter notebooks for preprocessing & training
-├── src/                # Source code (models, utils, data loaders)
-├── data/               # Dataset (not included, Kaggle link)
-├── results/            # Model outputs & visualizations
+├── notebook          # Jupyter notebooks for preprocessing & training
 └── README.md           # Project documentation
 ```
 
